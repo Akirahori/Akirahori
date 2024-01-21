@@ -14,8 +14,7 @@ Meu objetivo é unir as habilidades em economia e estatística para solucionar d
 
 - 🔧 Trabalho: Genial Investimentos - Risco
 - 📖 Atualmente estou aprendendo: Python, R, Estatística, Matemática, SQL e BI.
-- ❄️ Procuro colaborar: Projetos e códigos do mercado financeiro.
-- 📫 Contato: www.linkedin.com/in/raul-akira-hori-535766206
+- ❄️ Procuro colaborar: Projetos e códigos para o mercado financeiro.
 
 <hr>
 
