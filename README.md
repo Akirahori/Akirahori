@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="www.linkedin.com/in/raul-akira-hori-535766206"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/raul-akira-hori-535766206/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:raulakira23@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
 
 
